@@ -7,7 +7,6 @@ you can change the dir variable to serve a different directory, or expand from t
 
 
 To start:
-<script>
+
 npm install
 npm start
-</script>
